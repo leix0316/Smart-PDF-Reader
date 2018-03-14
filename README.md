@@ -1,16 +1,18 @@
 # Smart-PDF-Reader
 
-A Simple PDF Reader with Advanced features designed for iPhone
+Pdf Downloader and Reader is really cool app you can download directly file from web using in build browser and read off-line. Its also provide various features which really cool as ready because you can mark favorite, Bookmark, share Etc.Some of the features are listed below check this out.
 
-Features:
--Universal app – Support for iPhone
--iBooks- like design – reading experience with simple User Interface
--Recently read books – find books that you read recently
--Import PDFs – via Email, Online URL and iTunes file sharing
--Do more then just reading – Search words, Bookmarks & Jump to pages
--Cropping – Crop page merging to show contents bigger automatically
--No more pinch in/out – Zoom in/out with double tap.
--Fit document to device size automatically when rotating.
+-Easy to use and download
+-Search from Internet and easy to download
+-Inbuild browser for download
+-No limit for downloads
+-Download multiply files
+-Inbuilt reader
+-Easy to Read and mark favorite your book
+-Bookmark features while reading any books
+-Resume/Pause Features display speed and size
+-Read offline and store locally within App
+-Clean and elegant graphics
 
 Tel: +442076396968
 Email：2gh8p0@gmail.com
